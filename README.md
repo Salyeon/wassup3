@@ -1,6 +1,3 @@
-# wassup3
-wassup3
-
-gittest
-
-##pull test
+# 최민수 Profile
+## e-mail
+fish941030@gmail.com
