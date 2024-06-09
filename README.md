@@ -1,4 +1,4 @@
-# 최민수 Profile   
+# WASSUP AI 서비스 기획 3기 최민수 Profile   
 ## 1. 소개
 #### 주니어 서비스 기획자  
 
