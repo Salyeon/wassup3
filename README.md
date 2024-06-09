@@ -9,7 +9,7 @@ fish941030@gmail.com
 fish_1030@naver.com
 
 
-<img src="adult.jpg" width="25%" height="25%" title="px(픽셀) 크기 설정" alt="adult"></img>
+<img src="adult.jpg" width="25%" height="25%" title="울면ㅇ않되 난...얼은이니까..!.." alt="adult"></img>
 
 ---
 ## 2. 학력
