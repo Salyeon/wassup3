@@ -1,5 +1,5 @@
-# 최민수 Profile
-## e-mail
-fish941030@gmail.com
+# 최민수 Profile   
+## e-mail - fish941030@gmail.com   
 
-![뫀홐호 얼은](adult.jpg)
+<img src="adult.jpg" width="25%" height="25%" title="px(픽셀) 크기 설정" alt="adult"></img>
+
