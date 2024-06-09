@@ -16,5 +16,6 @@ fish_1030@naver.com
 
 ## 3. 링크
 #### 노션: [WASSUP 3기 최민수 노션 링크](https://zrr.kr/pmjM)   
+#### 노션: https://zrr.kr/pmjM   
 #### 작업 문서 예시: [최민수_작업 예시 문서](https://drive.google.com/file/d/1F8q1rBDox9MRPm3LDAcegbqIgmT-zl7z/view?usp=sharing)
 
